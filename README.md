@@ -92,3 +92,5 @@ All parameters are centralised in `gold_risk/config.py`:
 - `numpy` — vectorised simulation and statistics
 - `pandas` — data structures (available for extension)
 - `matplotlib` — chart generation
+
+All tested on local machine
