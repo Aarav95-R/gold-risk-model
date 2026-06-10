@@ -93,3 +93,4 @@ All parameters are centralised in `gold_risk/config.py`:
 - `pandas` — data structures (available for extension)
 - `matplotlib` — chart generation
 
+All tested on my local machine
